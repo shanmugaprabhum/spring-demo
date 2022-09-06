@@ -1,2 +1,2 @@
 # spring-demo
-Demo for Spring Projects
+Demo for Mongo Repository
